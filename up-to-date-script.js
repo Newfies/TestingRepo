@@ -1,3 +1,3 @@
-function alertsystem(){
+export function alertsystem() {
     alert('hi');
 }
